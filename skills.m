@@ -43,7 +43,6 @@ public class Kanishkar {
         return "Dedication + Quick learning + Problem solving = Growth";
     }
 }
-```
 
 <br/>
 
