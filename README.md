@@ -17,7 +17,7 @@
 <br/>
 
 <!-- CODE-BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/F9hQLAVgWxXbSatirx/giphy.gif"/>
 
 ```java
 public class Kanishkar {
