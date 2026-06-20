@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Kanishkar+P+%F0%9F%91%8B;Full+Stack+Developer+in+training;Java+%7C+Spring+Boot+%7C+JavaScript+%7C+MySQL;Building+HumanPulse+%E2%80%94+a+human-centric+AI+platform" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/kanis11?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/kanis11?](https://www.linkedin.com/in/kanis11)utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kanish200619@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=kanis-DEV&style=flat-square&color=70a5fd" alt="profile views" />
 
