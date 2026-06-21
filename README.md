@@ -152,8 +152,6 @@ public class Kanishkar {
 |---|---|---|
 | 🎓 | Full Stack Development Certification | Completed hands-on training at Steps to Skills Academy (Jan 2026) covering HTML, JavaScript, Java, Spring Boot & MySQL |
 | 🤖 | Built HumanPulse | Designed and developed a human-centric AI platform integrating AI, ML & NLP (April 2026) |
-| 💻 | _Add your LeetCode / HackerRank profile here_ | _e.g. 🔗 [LeetCode](https://leetcode.com/) — solved X+ problems_ |
-| 🏅 | _Add hackathon wins or competition ranks here_ | _e.g. Winner/Finalist at [Hackathon Name]_ |
 
 </div>
 
@@ -191,4 +189,4 @@ public class Kanishkar {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
