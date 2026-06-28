@@ -110,7 +110,7 @@ public class Kanishkar {
 
 <!-- TROPHY WALL -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanis-DEV&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img align="right" width="380" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>
 
 <br/>
