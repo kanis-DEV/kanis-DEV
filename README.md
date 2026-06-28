@@ -108,10 +108,7 @@ public class Kanishkar {
 
 <br/>
 
-<!-- TROPHY WALL -->
-<div align="center">
-  <img align="right" width="380" alt="Coding" src="https://github-profile-trophy.vercel.app/?username=kanis-DEV&theme=onedark&no-frame=true&no-bg=true"/>
-</div> 
+
 
 <br/>
 
